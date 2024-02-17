@@ -49,4 +49,4 @@ visualization.
  Clarity and structure of the report.
  Creativity and effectiveness of data visualizations.
  Quality and relevance of insights and recommendations.
- Attention to detail in data cleaning and preprocessing.
+ Attention to detail in data cleaning and preprocessing...
